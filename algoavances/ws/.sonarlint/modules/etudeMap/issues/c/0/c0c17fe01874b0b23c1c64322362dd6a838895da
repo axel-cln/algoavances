@@ -1,0 +1,12 @@
+
+¾%squid:RedundantThrowsDeclarationCheck+"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(©ïÞ‹ûÿÿÿÿHRMINORZ
+CODE_SMELL
+Ä%squid:RedundantThrowsDeclarationCheck+"yRemove the declaration of thrown exception 'etudemap.map.exceptions.CompleteTableException' which is a runtime exception.(©ïÞ‹ûÿÿÿÿHRMINORZ
+CODE_SMELL
+¹%squid:RedundantThrowsDeclarationCheck5"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(‡†ý¿HRMINORZ
+CODE_SMELL
+¾%squid:RedundantThrowsDeclarationCheck>"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(£Ê®€úÿÿÿÿH	RMINORZ
+CODE_SMELL
+¾%squid:RedundantThrowsDeclarationCheckG"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(ÆØ§¹úÿÿÿÿH
+RMINORZ
+CODE_SMELL

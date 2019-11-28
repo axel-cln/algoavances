@@ -1,0 +1,23 @@
+
+¿%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(ú±¥8¼ÅØë-HRMINORZ
+CODE_SMELL
+Å%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'etudemap.map.exceptions.CompleteTableException' which is a runtime exception.(ú±¥8¼ÅØë-HRMINORZ
+CODE_SMELL
+À%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(Ğ˜Ÿ’8¼ÅØë-HRMINORZ
+CODE_SMELL
+À%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(»À¾8¼ÅØë-H RMINORZ
+CODE_SMELL
+Å%squid:RedundantThrowsDeclarationCheck$"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(±ı»¤úÿÿÿÿ8¼ÅØë-H!RMINORZ
+CODE_SMELL
+isquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¼ÅØë-H"RINFOZ
+CODE_SMELL
+isquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¼ÅØë-H#RINFOZ
+CODE_SMELL
+isquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¼ÅØë-H$RINFOZ
+CODE_SMELL
+isquid:S1135%"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¼ÅØë-H%RINFOZ
+CODE_SMELL
+isquid:S1135+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¼ÅØë-H&RINFOZ
+CODE_SMELL
+isquid:S11351"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¼ÅØë-H'RINFOZ
+CODE_SMELL

@@ -1,0 +1,15 @@
+
+¾%squid:RedundantThrowsDeclarationCheckN"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(±ý»¤úÿÿÿÿHBRMINORZ
+CODE_SMELL
+¸%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(ÌçÁ2H?RMINORZ
+CODE_SMELL
+À%squid:RedundantThrowsDeclarationCheckH"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(»žÀ¾8ã¼ý‘ë-HNRMINORZ
+CODE_SMELL
+¸%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(ú±¥HARMINORZ
+CODE_SMELL
+¾%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'etudemap.map.exceptions.CompleteTableException' which is a runtime exception.(ú±¥H@RMINORZ
+CODE_SMELL
+¹%squid:RedundantThrowsDeclarationCheck;"sRemove the declaration of thrown exception 'etudemap.map.exceptions.NullKeyException' which is a runtime exception.(Ð˜Ÿ’HCRMINORZ
+CODE_SMELL
+rsquid:S1161|":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8¬‚˜•ë-H~RMAJORZ
+CODE_SMELL
